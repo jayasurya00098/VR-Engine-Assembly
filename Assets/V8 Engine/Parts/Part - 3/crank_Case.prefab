@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 709567004113111381}
   - component: {fileID: 1038980017682547533}
   m_Layer: 0
-  m_Name: crank_Case (1)
+  m_Name: crank_Case
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -58,7 +58,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100004, guid: 8c13420deafafd94c926e6f8a72387ef, type: 3}
+  - {fileID: 2100000, guid: f0a29ee9e30fe194798fd0f0a68ffbe9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

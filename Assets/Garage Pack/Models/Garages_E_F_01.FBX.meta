@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 084d363d13e5f4946b39cdc38cd2fe73
+timeCreated: 1516719219
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Garage_E
+    100002: Garage_E_Glass
+    100004: Garage_E_Machine_Hand_002
+    100006: Garage_E_Machine_Hand_003
+    100008: Garage_E_Machine_Hand_004
+    100010: Garage_E_Machine_Hand_01
+    100012: Garage_E_Stage
+    100014: Garage_E_Stand_00
+    100016: Garage_E_Stand_01
+    100018: Garage_E_Stand_02
+    100020: Garage_E_Stand_03
+    100022: Garage_E_Structure
+    100024: Garage_F
+    100026: Garage_F_Borders
+    100028: Garage_F_Glass
+    100030: Garage_F_Stage
+    100032: Garage_F_Structure
+    100034: //RootNode
+    100036: Garage_E_Machine_Hand_005
+    100038: Garage_E_Machine_Hand_006
+    100040: Garage_E_Machine_Hand_007
+    100042: Garage_E_Machine_Hand_008
+    400000: Garage_E
+    400002: Garage_E_Glass
+    400004: Garage_E_Machine_Hand_002
+    400006: Garage_E_Machine_Hand_003
+    400008: Garage_E_Machine_Hand_004
+    400010: Garage_E_Machine_Hand_01
+    400012: Garage_E_Stage
+    400014: Garage_E_Stand_00
+    400016: Garage_E_Stand_01
+    400018: Garage_E_Stand_02
+    400020: Garage_E_Stand_03
+    400022: Garage_E_Structure
+    400024: Garage_F
+    400026: Garage_F_Borders
+    400028: Garage_F_Glass
+    400030: Garage_F_Stage
+    400032: Garage_F_Structure
+    400034: //RootNode
+    400036: Garage_E_Machine_Hand_005
+    400038: Garage_E_Machine_Hand_006
+    400040: Garage_E_Machine_Hand_007
+    400042: Garage_E_Machine_Hand_008
+    2300000: Garage_E_Glass
+    2300002: Garage_E_Machine_Hand_002
+    2300004: Garage_E_Machine_Hand_003
+    2300006: Garage_E_Machine_Hand_004
+    2300008: Garage_E_Machine_Hand_01
+    2300010: Garage_E_Stage
+    2300012: Garage_E_Stand_00
+    2300014: Garage_E_Stand_01
+    2300016: Garage_E_Stand_02
+    2300018: Garage_E_Stand_03
+    2300020: Garage_E_Structure
+    2300022: Garage_F_Borders
+    2300024: Garage_F_Glass
+    2300026: Garage_F_Stage
+    2300028: Garage_F_Structure
+    2300030: Garage_E_Machine_Hand_005
+    2300032: Garage_E_Machine_Hand_006
+    2300034: Garage_E_Machine_Hand_007
+    2300036: Garage_E_Machine_Hand_008
+    3300000: Garage_E_Glass
+    3300002: Garage_E_Machine_Hand_002
+    3300004: Garage_E_Machine_Hand_003
+    3300006: Garage_E_Machine_Hand_004
+    3300008: Garage_E_Machine_Hand_01
+    3300010: Garage_E_Stage
+    3300012: Garage_E_Stand_00
+    3300014: Garage_E_Stand_01
+    3300016: Garage_E_Stand_02
+    3300018: Garage_E_Stand_03
+    3300020: Garage_E_Structure
+    3300022: Garage_F_Borders
+    3300024: Garage_F_Glass
+    3300026: Garage_F_Stage
+    3300028: Garage_F_Structure
+    3300030: Garage_E_Machine_Hand_005
+    3300032: Garage_E_Machine_Hand_006
+    3300034: Garage_E_Machine_Hand_007
+    3300036: Garage_E_Machine_Hand_008
+    4300000: Garage_E_Structure
+    4300002: Garage_E_Glass
+    4300004: Garage_E_Stand_00
+    4300006: Garage_E_Machine_Hand_01
+    4300008: Garage_E_Stand_01
+    4300010: Garage_E_Machine_Hand_002
+    4300012: Garage_E_Machine_Hand_004
+    4300014: Garage_E_Stand_02
+    4300016: Garage_E_Machine_Hand_003
+    4300018: Garage_E_Stand_03
+    4300020: Garage_E_Stage
+    4300022: Garage_F_Glass
+    4300024: Garage_F_Borders
+    4300026: Garage_F_Structure
+    4300028: Garage_F_Stage
+    4300030: Garage_E_Machine_Hand_005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
